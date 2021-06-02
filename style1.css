@@ -1,0 +1,45 @@
+#all{
+	width: 1000px;
+	height: 400px;
+	background: white;
+}
+.dong{
+	width: 1000px;
+	height: 200px;
+}
+.mautrang{
+	width: 200px;
+	height: 200px;
+	background: white;
+	float: left;
+}
+#maudo{
+	width: 200px;
+	height: 200px;
+	background: red;
+	float: left;
+}
+#mauvang{
+	width: 200px;
+	height: 200px;
+	background: #F3EB09;
+	float: left;
+}
+#mauxanhcay{
+	width: 200px;
+	height: 200px;
+	background: #0CE020;
+	float: left;
+}
+#mauxanhbien{
+	width: 200px;
+	height: 200px;
+	background: #1835E8;
+	float: left;
+}
+#mautim{
+	width: 200px;
+	height: 200px;
+	background:#8806ED;
+	float: left;
+}
